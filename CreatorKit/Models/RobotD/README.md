@@ -6,4 +6,6 @@ Simply download the ZIP by clicking the link below and install it in Blender 4.2
 
 # [Download Rig](https://github.com/Radiantxero/OrionDrift_Rig/releases/download/4.2/DrifterCustomizer.zip)
 
-For more info/help, join Radiant's Discord server here: https://discord.gg/gACAXXxhaV
+# Help
+
+For more info/help, join Radiant's Discord server [Here.](https://discord.gg/gACAXXxhaV)
